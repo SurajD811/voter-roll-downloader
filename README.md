@@ -39,6 +39,6 @@ To extract text from images for verification code, **Tesseract OCR** is used.
 1. run testng.xml suite from IDE (Right-click → Run as TestNG Suite).
 
 ### 📸 OUTPUT
- -Voter roll PDFs downloaded to configured folder.
- -HTML reports generated post-execution.
- -Screenshots of failed test cases saved for debugging.   
+1. Voter roll PDFs downloaded to your configured folder.
+2. HTML reports generated post-execution.
+3. Screenshots of failed test cases saved for debugging.
