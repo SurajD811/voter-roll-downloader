@@ -11,16 +11,16 @@
       <![CDATA[Polling Details Chart Displayed Successfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-16T12:40:10 IST" name="Suite" finished-at="2025-03-16T12:40:21 IST" duration-ms="11488">
+  <suite started-at="2025-03-16T13:57:39 IST" name="Suite" finished-at="2025-03-16T13:57:54 IST" duration-ms="14464">
     <groups>
     </groups>
-    <test started-at="2025-03-16T12:40:10 IST" name="Test" finished-at="2025-03-16T12:40:21 IST" duration-ms="11488">
+    <test started-at="2025-03-16T13:57:39 IST" name="Test" finished-at="2025-03-16T13:57:54 IST" duration-ms="14464">
       <class name="com.infiniteanalytics.assignment.test.TestVoterRollDownload">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T12:40:03 IST" name="setUp" finished-at="2025-03-16T12:40:10 IST" duration-ms="7091" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T13:57:32 IST" name="setUp" finished-at="2025-03-16T13:57:39 IST" duration-ms="7074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testVoterRollDownload()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T12:40:10 IST" name="testVoterRollDownload" finished-at="2025-03-16T12:40:21 IST" duration-ms="11405" status="PASS">
+        <test-method signature="testVoterRollDownload()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T13:57:40 IST" name="testVoterRollDownload" finished-at="2025-03-16T13:57:54 IST" duration-ms="14371" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Url Navigation Successfull landed on Electoral Rolls Page]]>
@@ -33,7 +33,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- testVoterRollDownload -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T12:40:21 IST" name="tearDown" finished-at="2025-03-16T12:40:22 IST" duration-ms="916" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T13:57:54 IST" name="tearDown" finished-at="2025-03-16T13:57:55 IST" duration-ms="693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
