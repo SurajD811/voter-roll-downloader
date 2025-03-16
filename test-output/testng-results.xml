@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Url Navigation Successfull landed on Electoral Rolls Page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Selected value from Ditrict Name Dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Polling Details Chart Displayed Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-03-16T12:40:10 IST" name="Suite" finished-at="2025-03-16T12:40:21 IST" duration-ms="11488">
+    <groups>
+    </groups>
+    <test started-at="2025-03-16T12:40:10 IST" name="Test" finished-at="2025-03-16T12:40:21 IST" duration-ms="11488">
+      <class name="com.infiniteanalytics.assignment.test.TestVoterRollDownload">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T12:40:03 IST" name="setUp" finished-at="2025-03-16T12:40:10 IST" duration-ms="7091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testVoterRollDownload()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T12:40:10 IST" name="testVoterRollDownload" finished-at="2025-03-16T12:40:21 IST" duration-ms="11405" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Url Navigation Successfull landed on Electoral Rolls Page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Selected value from Ditrict Name Dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Polling Details Chart Displayed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testVoterRollDownload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.infiniteanalytics.assignment.test.TestVoterRollDownload@45d84a20]" started-at="2025-03-16T12:40:21 IST" name="tearDown" finished-at="2025-03-16T12:40:22 IST" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infiniteanalytics.assignment.test.TestVoterRollDownload -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
