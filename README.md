@@ -36,7 +36,7 @@ To extract text from images for verification code, **Tesseract OCR** is used.
    - **Variable Value:**  C:\Program Files\Tesseract-OCR\
 
 ## 🚀 How to Run the Project Locally
-1. run testng.xml suite from IDE (Right-click → Run as TestNG Suite).
+1. Run testng.xml suite from IDE (Right-click → Run as TestNG Suite).
 
 ### 📸 OUTPUT
 1. Voter roll PDFs downloaded to your configured folder.
